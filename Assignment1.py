@@ -1,5 +1,5 @@
 # Assignment: Homework 1
-# Name: Abhejay Murali (AXM180115)
+# Name: Abhejay Murali
 # Date Due: 2-4-2023
 
 import sys
