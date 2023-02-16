@@ -22,3 +22,7 @@ Text Processing in Python is pretty strong in my opinion. There are many functio
 
 What I learned:
 This is my first class learning Python and it introduced me to object oriented concepts by creating the Person class. I also learned many of the different functions that could be used for text processing in Python. Regex was pretty difficult to understand initially, but after a bit of reading it became much more easier to use it and how powerful of a tool it is. The use of the system aregument in order to read in the file was something new and it is definitely something that I will be using more.
+
+## Portfolio Assignment 2 -> Word Guessing Game
+
+You can see the [assignment here](Assignment2.py)
