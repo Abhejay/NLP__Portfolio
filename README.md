@@ -26,3 +26,7 @@ This is my first class learning Python and it introduced me to object oriented c
 ## Portfolio Assignment 2 -> Word Guessing Game
 
 You can see the [assignment here](Assignment2.py)
+
+## Portfolio Assignment 3 -> WordNet
+
+You can see the [assignment here](Assignment3.pdf)
