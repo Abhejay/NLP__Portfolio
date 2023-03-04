@@ -33,4 +33,4 @@ You can see the [assignment here](Assignment3.pdf)
 
 ## Portfolio Assignment 4 -> N Gram Language Model
 
-You can see the [assignment here](Assignment4)
+You can see the [assignment here](Assignment4) and [narrative here](Assignment4_N-grams_Narrative.pdf)
