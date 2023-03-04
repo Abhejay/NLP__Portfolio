@@ -1,8 +1,3 @@
-#Assignment: N Gram Language Model
-#Names: Abhejay Murali, Ahmed Iqbal
-#Date Due: March 4th, 2023
-
-
 import nltk
 from nltk.util import ngrams
 import pickle
