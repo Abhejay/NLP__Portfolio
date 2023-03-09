@@ -38,3 +38,7 @@ You can see the [assignment here](Assignment4) and [narrative here](Assignment4_
 ## Portfolio Assignment 5 -> Parsing Sentences
 
 You can see the [assignment here](Assignment5.pdf)
+
+## Portfolio Assignment 6 -> Finding or Building a Corpus
+
+You can see the [assignment here](Assignment6) and [report here](Assignment6/HW-6_Abhejay_Murali.pdf)
