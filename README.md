@@ -41,4 +41,4 @@ You can see the [assignment here](Assignment5.pdf)
 
 ## Portfolio Assignment 6 -> Finding or Building a Corpus
 
-You can see the [assignment here](Assignment6) and [report here](Assignment6/HW-6_Abhejay_Murali.pdf)
+You can see the [assignment here](Assignment6) and the report is inside the project folder.
