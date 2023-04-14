@@ -1,0 +1,20 @@
+[
+    {
+        "username": "Abhejay",
+        "age": "21",
+        "likes": [
+            "cappuccino"
+        ],
+        "dislikes": [
+            "mocha"
+        ]
+    },
+    {
+        "username": "User",
+        "age": "33",
+        "likes": [
+            "cappuccino"
+        ],
+        "dislikes": []
+    }
+]
