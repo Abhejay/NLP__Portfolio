@@ -1,0 +1,452 @@
+{
+  "intents": [
+    {
+      "tag": "greetings",
+      "input": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hi there! How can I help you today?",
+        "Hello! What would you like to know about coffee?",
+        "Good morning! Ready for some coffee talk?",
+        "Hey, coffee lover! What can I assist you with?"
+      ]
+    },
+    {
+      "tag": "jokes",
+      "input": [
+        "Tell me a coffee joke.",
+        "Do you know any funny stories or puns related to coffee?",
+        "What's the best joke you know about coffee?",
+        "Can you make me laugh with a joke about coffee?",
+        "Do you have any humorous coffee-related anecdotes?"   
+      ],
+      "responses": [
+        "Why did the coffee file a police report? It got mugged.",
+        "Why did the hipster burn his tongue? He drank his coffee before it was cool.",
+        "How does a tech guy drink coffee? He installs Java.",
+        "Why did the coffee go to the police station? It had a latte on its mind."
+      ]
+    },
+    {
+        "tag": "facts",
+        "input": [
+          "What are some interesting facts about coffee?",
+          "Tell me something I didn't know about coffee.",
+          "Can you share some coffee trivia with me?"
+        ],
+        "responses": [
+          "Coffee is the second most traded commodity in the world after oil.",
+          "The world's oldest cat, Creme Puff, lived to be 38 years old and drank coffee every morning.",
+          "In Turkey, it's traditional to drink coffee and have your fortune told from the leftover coffee grounds.",
+          "Coffee beans are actually the pits of a cherry-like berry that are grown on bushes."
+        ]
+    },
+    {
+      "tag": "health benefits",
+      "input": [
+        "What are the health benefits of drinking coffee?",
+        "Can you tell me how coffee can benefit my health?",
+        "What are some recent studies that show the positive effects of coffee on the body?"
+      ],
+      "responses": [
+        "Coffee is high in antioxidants, which can help reduce inflammation in the body.",
+        "Drinking coffee has been linked to a reduced risk of Parkinson's disease.",
+        "Coffee may help protect against liver disease and type 2 diabetes.",
+        "Caffeine in coffee can improve mental alertness and reduce fatigue."
+      ]
+    },
+    {
+      "tag": "side effects",
+      "input": [
+        "What are some negative effects of drinking coffee?",
+        "Can you tell me about the side effects of consuming too much caffeine?",
+        "What are the risks of drinking coffee for pregnant women or individuals with certain medical conditions?"  
+      ],
+      "responses": [
+        "Drinking too much coffee can lead to anxiety and jitters.",
+        "Caffeine can disrupt sleep patterns and cause insomnia.",
+        "Some people may experience acid reflux or heartburn from drinking coffee.",
+        "Drinking coffee can also lead to dehydration."
+      ]
+    },
+    {
+      "tag": "Espresso",
+      "input": [
+        "What is an Espresso?",
+        "Can you explain what a Espresso is?",
+        "What exactly is a Espresso?"
+      ],
+      "responses": [
+        "Espresso is a concentrated coffee beverage that is made by forcing hot water under high pressure through finely ground coffee beans."
+      ]
+    },
+    {
+      "tag": "Espresso-Origin",
+      "input": [
+        "What is the origin of the Espresso?", 
+        "Can you tell me about the history of the Espresso?",
+        "Where did the Espresso originate?", 
+        "How did the Espresso come to be a popular coffee drink?"
+      ],
+      "responses": [
+        "Espresso is a coffee brewing method that originated in Italy in the early 20th century. The first espresso machines were invented in the early 1900s, with the first patent being filed by Luigi Bezzera in 1901. The modern espresso machine, which uses a pump to create pressure and force water through compacted, finely ground coffee, was invented by Achille Gaggia in 1945. The popularity of espresso quickly spread throughout Europe and eventually to the rest of the world, leading to the creation of many different espresso-based drinks such as cappuccinos, lattes, and macchiatos."
+      ]
+    },
+    {
+      "tag": "Espresso-Milk",
+      "input": [
+        "What kind of milk can I use in a Espresso?",
+        "Is there a specific type of milk recommended for making a Espresso?",
+        "Can I use any type of milk in a Espresso?"
+      ],
+      "responses": [
+        "Espresso can be served on its own or with a small amount of milk, typically in the form of foam. When milk is added to espresso, it creates a variety of espresso-based drinks such as lattes, cappuccinos, and macchiatos. The type of milk used can also vary, with whole milk, skim milk, soy milk, and almond milk being popular choices. The amount of milk used depends on the specific drink being made and personal preference."
+      ]
+    },
+    {
+      "tag": "Espresso-Variations",
+      "input": [
+        "What are some popular variations of the classic Espresso recipe?",
+        "Are there any popular twists on the traditional Espresso recipe?",
+        "Can you recommend any creative ways to spice up a Espresso?",
+        "What are some popular Espresso variations?"
+      ],
+      "responses": [
+        "Espresso is a versatile coffee brewing method that can be used to make a wide variety of drinks. Here are some popular espresso-based drinks. Espresso is a single shot of pure espresso, served in a small cup. Double Espresso is similar to a single shot, but with two shots of espresso served in a slightly larger cup. Macchiato is a Espresso marked with a small amount of foam on top."
+      ]
+    },
+    {
+      "tag": "Espresso-Calories",
+      "input": [
+        "What is the calorie count of a Espresso?",
+        "How many calories are in a Espresso?",
+        "Can you tell me the number of calories in a Espresso?"
+      ],
+      "responses": [
+        "A single shot of espresso typically contains very few calories, approximately 1 calorie per ounce (30 ml) of liquid. However, the calorie count can increase depending on the size of the drink and any added ingredients. For example, a single shot latte made with whole milk can contain around 120-220 calories, while a flavored latte made with syrups can contain up to 400 calories or more. If you are watching your calorie intake, it's best to opt for a simple espresso shot or an Americano, which contains only a few calories."
+      ]
+    },
+    {
+      "tag": "Espresso-Recipe",
+      "input": [
+        "What is the recipe for a Espresso?",
+        "How do you make a Espresso?",
+        "Can you give me the ingredients and steps for making a Espresso?"
+      ],
+      "responses": [
+        "To make espresso, grind espresso beans to a fine consistency, pack the ground espresso into the portafilter, place it into the espresso machine, turn on the machine, and extract the espresso into a cup."
+      ]
+    },
+    {
+      "tag": "Americano",
+      "input": [
+        "What is a Americano?",
+        "Can you explain what a Americano is?",
+        "What exactly is a Americano?"
+      ],
+      "responses": [
+        "An Americano is a popular coffee drink made by adding hot water to a shot or two of espresso. The resulting drink has a similar strength to drip coffee but with a distinct flavor profile."
+      ]
+    },
+    {
+      "tag": "Americano-Origin",
+      "input": [
+        "What is the origin of the Americano?", 
+        "Can you tell me about the history of the Americano?",
+        "Where did the Americano originate?", 
+        "How did the Americano come to be a popular coffee drink?"
+      ],
+      "responses": [
+        "The name 'Americano' is believed to have originated during World War II when American soldiers stationed in Italy would dilute their espressos with hot water to make them more similar to the coffee they were used to drinking back home."
+      ]
+    },
+    {
+      "tag": "Americano-Milk",
+      "input": [
+        "What kind of milk can I use in a Americano?",
+        "Is there a specific type of milk recommended for making a Americano?",
+        "Can I use any type of milk in a Americano?"
+      ],
+      "responses": [
+        "An Americano is typically served black, without any milk or cream. However, some people may prefer to add a small amount of milk or cream to their Americano for a creamier texture and milder taste. This can be done by adding a splash of milk or cream to the hot water before adding the espresso shot. It's important to note that adding milk or cream to an Americano changes the drink's flavor and strength, making it less similar to traditional drip coffee and more like a latte or cappuccino."
+      ]
+    },
+    {
+      "tag": "Americano-Variations",
+      "input": [
+        "What are some popular variations of the classic Americano recipe?",
+        "Are there any popular twists on the traditional Americano recipe?",
+        "Can you recommend any creative ways to spice up a Americano?",
+        "What are some popular Americano variations?"
+      ],
+      "responses": [
+        "There are several variations of an Americano including the Long Black, Red Eye, Black Eye, White Americano, Breve, Misto, and Cafe Con Leche, each with their own unique twist on the classic coffee drink."
+      ]
+    },
+    {
+      "tag": "Americano-Calories",
+      "input": [
+        "What is the calorie count of a Americano?",
+        "How many calories are in a Americano?",
+        "Can you tell me the number of calories in a Americano?"
+      ],
+      "responses": [
+        "An Americano typically has a very low calorie count, as it consists of just hot water and espresso. The exact calorie count can vary depending on the size of the drink and the number of espresso shots used, but on average, a 12-ounce (355 ml) cup of black Americano contains only 3-4 calories. However, if you add milk, cream, or sugar to your Americano, the calorie count will increase accordingly."
+      ]
+    },
+    {
+      "tag": "Americano-Recipe",
+      "input": [
+        "What is the recipe for a Americano?",
+        "How do you make a Americano?",
+        "Can you give me the ingredients and steps for making a Americano?"
+      ],
+      "responses": [
+        "To make an Americano, pull a shot or two of espresso and add them to a cup of hot water, then stir to combine."
+      ]
+    },
+    {
+      "tag": "Latte",
+      "input": [
+        "What is a latte?",
+        "Can you explain what a latte is?",
+        "What exactly is a latte?"
+      ],
+      "responses": [
+        "A Latte is a coffee beverage that is made with espresso shots and steamed milk, and is typically topped with a small amount of foam."
+      ]
+    },
+    {
+      "tag": "Latte-Origin",
+      "input": [
+        "What is the origin of the latte?", 
+        "Can you tell me about the history of the latte?",
+        "Where did the latte originate?", 
+        "How did the latte come to be a popular coffee drink?"
+      ],
+      "responses": [
+        "The origin of the latte can be traced back to Italy, where it was first introduced in the 1950s as a variation of the cappuccino."
+      ]
+    },
+    {
+      "tag": "Latte-Milk",
+      "input": [
+        "What kind of milk can I use in a latte?",
+        "Is there a specific type of milk recommended for making a latte?",
+        "Can I use any type of milk in a latte?"
+      ],
+      "responses": [
+        "The milk used in a latte is typically steamed milk, which is milk that has been heated and frothed using a steam wand on an espresso machine. The milk is heated to around 150°F (65°C) and then frothed to create a creamy, velvety texture with microbubbles that help to incorporate air into the milk. Whole milk is the most commonly used type of milk for lattes, but you can also use 2% milk, skim milk, or non-dairy milk alternatives like almond milk, soy milk, or oat milk depending on your personal preference and dietary requirements."
+      ]
+    },
+    {
+      "tag": "Latte-Variations",
+      "input": [
+        "What are some popular variations of the classic latte recipe?",
+        "Are there any popular twists on the traditional latte recipe?",
+        "Can you recommend any creative ways to spice up a latte?",
+        "What are some popular latte variations?"
+      ],
+      "responses": [
+        "Some popular variations of the classic latte recipe include adding spices such as cinnamon or nutmeg, or substituting the milk with alternative options such as coconut or hemp milk."
+      ]
+    },
+    {
+      "tag": "Latte-Calories",
+      "input": [
+        "What is the calorie count of a latte?",
+        "How many calories are in a latte?",
+        "Can you tell me the number of calories in a latte?"
+      ],
+      "responses": [
+        "The calorie count of a latte can vary depending on the type of milk used and any additional flavorings or sweeteners added. Here are some approximate calorie counts for different types of lattes made with 12 ounces (355 ml) of milk. A Caffe Latte (made with whole milk) is 150-250 calories. A Caffe Latte (made with skim milk) is 70-120 calories. A Mocha Latte (made with whole milk) is 290-400 calories."
+      ]
+    },
+    {
+      "tag": "Latte-Recipe",
+      "input": [
+        "What is the recipe for a latte?",
+        "How do you make a latte?",
+        "Can you give me the ingredients and steps for making a latte?"
+      ],
+      "responses": [
+        "Here are some steps to make a latte. Pull a shot of espresso and pour it into a 12-ounce (355 ml) cup. Then steam and froth 10-12 ounces (295-355 ml) of milk using an espresso machine's steam wand until it reaches a creamy and velvety texture. Pour the frothed milk into the cup with the espresso, holding back the foam with a spoon to create a layered effect. Gently tap the cup on a flat surface to remove any large bubbles and distribute the milk evenly. Add any desired flavorings, such as vanilla or caramel syrup, to taste."
+      ]
+    },
+    {
+      "tag": "Cappuccino",
+      "input": [
+        "What is a cappuccino?",
+        "Can you explain what a cappuccino is?",
+        "What exactly is a cappuccino?"
+      ],
+      "responses": [
+        "A Cappuccino is a coffee beverage that is made with equal parts espresso, steamed milk, and foam, and is typically served in a small cup."
+      ]
+    },
+    {
+      "tag": "Cappuccino-Origin",
+      "input": [
+        "What is the origin of the cappuccino?", 
+        "Can you tell me about the history of the cappuccino?",
+        "Where did the cappuccino originate?", 
+        "How did the cappuccino come to be a popular coffee drink?"
+      ],
+      "responses": [
+        "The Cappuccino has its origins in Italy, and is believed to have been named after the Capuchin friars because the drink's color resembled the color of their habits."
+      ]
+    },
+    {
+      "tag": "Cappuccino-Milk",
+      "input": [
+        "What kind of milk can I use in a cappuccino?",
+        "Is there a specific type of milk recommended for making a cappuccino?",
+        "Can I use any type of milk in a cappuccino?"
+      ],
+      "responses": [
+        "Traditionally, a Cappuccino is made with whole milk. However, you can also use 2% milk or skim milk depending on your personal preference. Whole milk will give the cappuccino a richer, creamier taste, while skim milk will result in a lighter consistency with fewer calories. Some coffee shops and cafes also offer non-dairy milk options such as almond milk, soy milk, or oat milk as a vegan or lactose-free alternative. It's always a good idea to check with the specific coffee shop or restaurant where you're ordering your cappuccino to see what milk options they offer."
+      ]
+    },
+    {
+      "tag": "Cappuccino-Variations",
+      "input": [
+        "What are some popular variations of the classic cappuccino recipe?",
+        "Are there any popular twists on the traditional cappuccino recipe?",
+        "Can you recommend any creative ways to spice up a cappuccino latte?",
+        "What are some popular cappuccino variations?"
+      ],
+      "responses": [
+        "Cappuccino variations include a dry cappuccino with more foam and less milk, a wet cappuccino with less foam and more milk, flavored cappuccinos with syrups or spices, and iced cappuccinos served cold with ice and milk."
+      ]
+    },
+    {
+      "tag": "Cappuccino-Calories",
+      "input": [
+        "What is the calorie count of a cappuccino?",
+        "How many calories are in a cappuccino?",
+        "Can you tell me the number of calories in a cappuccino?"
+      ],
+      "responses": [
+        "The calorie count of a cappuccino can vary depending on the size of the drink and the specific ingredients used. A standard 8-ounce cappuccino made with whole milk typically contains around 70-120 calories. However, larger sizes or the use of flavored syrups, whipped cream, or other toppings can significantly increase the calorie count. If you are watching your calorie intake, it's always a good idea to ask the specific coffee shop or restaurant where you're ordering your cappuccino for an accurate calorie count for their version."
+      ]
+    },
+    {
+      "tag": "Cappuccino-Recipe",
+      "input": [
+        "What is the recipe for a cappuccino?",
+        "How do you make a cappuccino?",
+        "Can you give me the ingredients and steps for making a cappuccino?"
+      ],
+      "responses": [
+        "To make a cappuccino, you will need espresso, milk, and foam. First, pull a shot of espresso and pour it into a cup. Next, steam and froth milk to create a velvety microfoam. Pour the steamed milk into the espresso, holding back the foam with a spoon. Finally, spoon the foam on top of the milk, creating a distinct layer. The specific measurements and proportions can vary depending on personal preference and the size of the drink being made."
+      ]
+    },
+    {
+      "tag": "Mocha",
+      "input": [
+        "What is a mocha?",
+        "Can you explain what a mocha is?",
+        "What exactly is a mocha?"
+      ],
+      "responses": [
+        "A mocha is a coffee beverage that combines espresso, chocolate, and steamed milk to create a rich and flavorful drink."
+      ]
+    },
+    {
+      "tag": "Mocha-Origin",
+      "input": [
+        "What is the origin of the mocha?", 
+        "Can you tell me about the history of the mocha?",
+        "Where did the mocha originate?", 
+        "How did the mocha come to be a popular coffee drink?"
+      ],
+      "responses": [
+        "The mocha has its origins in Yemen, where coffee was first grown and traded. The name 'mocha' comes from the city of Mocha, which was a major center of coffee trade in the 15th century."
+      ]
+    },
+    {
+      "tag": "Mocha-Milk",
+      "input": [
+        "What kind of milk can I use in a mocha?",
+        "Is there a specific type of milk recommended for making a mocha?",
+        "Can I use any type of milk in a mocha?"
+      ],
+      "responses": [
+        "You can use any type of milk in a mocha, but the most common types of milk used are whole milk, 2% milk, and skim milk. Whole milk is the most traditional and will give the richest, creamiest taste. 2% milk is a slightly lighter option with fewer calories, while skim milk is the lowest in calories and fat but can result in a thinner consistency. Non-dairy milk alternatives like almond milk, soy milk, and oat milk can also be used for a vegan or dairy-free option, but they may alter the taste and texture of the drink. Ultimately, the choice of milk comes down to personal preference and dietary requirements."
+      ]
+    },
+    {
+      "tag": "Mocha-Variations",
+      "input": [
+        "What are some popular variations of the classic mocha recipe?",
+        "Are there any popular twists on the traditional mocha recipe?",
+        "Can you recommend any creative ways to spice up a mocha latte?",
+        "What are some popular mocha variations?"
+      ],
+      "responses": [
+        "Mocha coffee drink variations include the classic mocha made with espresso, steamed milk, and chocolate syrup or cocoa powder, as well as white chocolate mocha, peppermint mocha, caramel mocha, and many others."
+      ]
+    },
+    {
+      "tag": "Mocha-Calories",
+      "input": [
+        "What is the calorie count of a mocha?",
+        "How many calories are in a mocha?",
+        "Can you tell me the number of calories in a mocha?"
+      ],
+      "responses": [
+        "The calorie count of a mocha can vary depending on the size of the drink and the specific ingredients used. A standard 8-ounce mocha made with whole milk and chocolate syrup typically contains around 120-170 calories. However, larger sizes or the addition of whipped cream or other flavorings can significantly increase the calorie count. It's always a good idea to check with the specific coffee shop or restaurant where you're ordering your mocha to get an accurate calorie count for their version."
+      ]
+    },
+    {
+      "tag": "Mocha-Recipe",
+      "input": [
+        "What is the recipe for a mocha?",
+        "How do you make a mocha?",
+        "Can you give me the ingredients and steps for making a mocha?"
+      ],
+      "responses": [
+        "Mocha is a coffee-based beverage that typically includes espresso, chocolate syrup, milk, and whipped cream. To make a mocha, you would mix espresso and chocolate syrup together and then add steamed milk. Top with whipped cream and chocolate shavings, if desired. The specific measurements and proportions can vary depending on personal preference and the size of the drink being made."
+      ]
+    },
+    {
+      "tag": "Latte-Machine",
+      "input": [
+        "Can I make a latte without an espresso machine?",
+        "Can I make a latte using a regular coffee maker?",
+        "How do I make a latte without an espresso machine?"
+      ],
+      "responses": [
+        "Yes, you can make a latte without an espresso machine by using a stovetop or handheld milk frother to create steamed milk, and adding it to brewed coffee or strong espresso shots."
+      ]
+    },
+    {
+      "tag": "Espresso-Beans",
+      "input": [
+        "Is it possible to use regular coffee beans to make espresso?", 
+        "Can I substitute regular coffee beans for espresso beans?",
+        "I don't have espresso beans. Can I use regular coffee beans instead?"
+      ],
+      "responses": [
+        "The best espresso beans are those that are freshly roasted and have a dark roast profile. Look for beans that have a balanced flavor and aroma."
+      ]
+    },
+    {
+      "tag":"Espresso-Comparison",
+      "input": [
+        "How does an espresso differ from a cappuccino?",
+        "What distinguishes an espresso from a cappuccino?",
+        "Could you explain the difference between an espresso and a cappuccino?"
+      ],
+      "responses": [
+        "An espresso is a shot of concentrated coffee, while a cappuccino is made with espresso, steamed milk, and milk foam. The proportions of each ingredient differ between the two drinks."
+      ]
+    }
+  ]
+}
