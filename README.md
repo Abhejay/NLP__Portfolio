@@ -1,6 +1,12 @@
 # NLP_Portfolio
 Abhejay's Natural Language Processing Portfolio
 
+Natural Language Processing is an extremely interesting field with a lot of relevant work and research. It allows you to apply technologies at the interesection of linguistics and computer science. With the release of technologies like ChatGPT, working and understanding the underlying technologies in this field is very important. As I enter graduate school, I am going to pursue learning more deep learning technologies and possibly publishing more research in the field of NLP.
+
+## Soft Skills
+
+In order to finish the larger projects in the portfolio such as the WebCrawler and Chatbot required a lot of time management due to how the work was set up. Typically these larger projects took around 10-15 hours to complete with a lot of learning and applying. Some assignments were completed individually while others with a team. While working individually, it was easier to schedule but it meant that I had to do more work. Whereas when working in a team, the scheduling and dividing the work needed more effort but the overrall workload was less.
+
 ## Portfolio Assignment 0
 
 This assignment provides an overview on what is Natural Language Processing (NLP).
@@ -45,7 +51,7 @@ You can see the [assignment here](Assignment6) and the report is inside the proj
 
 ## Portfolio Assignment 7 -> Text Classification Machine Learning
 
-You can see the [assignment here](Assignment7) which is a pdf of the ipynb.
+You can see the [assignment here](Assignment7.pdf) which is a pdf of the ipynb.
 
 ## Portfolio Assignment 8 -> Java the CoffeeBot
 
@@ -53,4 +59,4 @@ You can see the [assignment here](CoffeeBot) which is a folder with the project 
 
 ## Portfolio Assignment 9 -> Text Classification Deep Learning
 
-You can see the [assignment here](TextClassification-DeepLearning) whihc is a pdf of the ipynb.
+You can see the [assignment here](TextClassification-DeepLearning.pdf) whihc is a pdf of the ipynb.
