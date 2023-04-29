@@ -42,3 +42,15 @@ You can see the [assignment here](Assignment5.pdf)
 ## Portfolio Assignment 6 -> Finding or Building a Corpus
 
 You can see the [assignment here](Assignment6) and the report is inside the project folder.
+
+## Portfolio Assignment 7 -> Text Classification Machine Learning
+
+You can see the [assignment here](Assignment7) which is a pdf of the ipynb.
+
+## Portfolio Assignment 8 -> Java the CoffeeBot
+
+You can see the [assignment here](CoffeeBot) which is a folder with the project files.
+
+## Portfolio Assignment 9 -> Text Classification Deep Learning
+
+You can see the [assignment here](TextClassification-DeepLearning) whihc is a pdf of the ipynb.
